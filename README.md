@@ -2,7 +2,9 @@
 The project encompasses both a mobile application and a website.
 It aims to address the challenges faced in finding maintenance technicians, such as scarcity, unreliability,
 and uncertainty about their skills. Our solution is an application that streamlines communication between users and technicians.
-!Alt[https://drive.google.com/file/d/1KZNIghEzj_NDePUx3YRvtX3NawH6goXD/view?usp=sharing]
+
+![1](https://github.com/Shahd-Bilal0/fani-flutter/assets/123820302/a4e6ed6b-3636-46c5-8b6d-b1ecc93c7c57)
+
 ## User Types
 
 The app supports three types of users:
