@@ -2,7 +2,7 @@
 The project encompasses both a mobile application and a website.
 It aims to address the challenges faced in finding maintenance technicians, such as scarcity, unreliability,
 and uncertainty about their skills. Our solution is an application that streamlines communication between users and technicians.
-
+!Alt[https://drive.google.com/file/d/1KZNIghEzj_NDePUx3YRvtX3NawH6goXD/view?usp=sharing]
 ## User Types
 
 The app supports three types of users:
@@ -28,8 +28,8 @@ The app supports three types of users:
 
 ## Demo
 
-Watch the demo [here](https://lnkd.in/dAM2jJVM).
+Watch the demo [here](https://drive.google.com/file/d/1HszmzA3ituLnRFg5cLJ1xkBy1DFMUBqQ/view).
 
 ## Report
 
-Read the detailed report [here](https://lnkd.in/dfKuAVUX).
+Read the detailed report [here](https://drive.google.com/file/d/1_hfAasxFpthn5BfOzXeEwIeoPFr7EESD/view?usp=sharing).
