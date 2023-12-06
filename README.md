@@ -3,7 +3,7 @@ The project encompasses both a mobile application and a website.
 It aims to address the challenges faced in finding maintenance technicians, such as scarcity, unreliability,
 and uncertainty about their skills. Our solution is an application that streamlines communication between users and technicians.
 
-<img src="https://github.com/Shahd-Bilal0/fani-flutter/blob/main/images/1.png" alt="Project Image" width="600" height="600">
+<img src="https://github.com/Shahd-Bilal0/fani-flutter/blob/main/images/1.png" alt="Project Image" width="500" height="500">
 
 ## User Types
 
